@@ -15,6 +15,15 @@ It checks for:
 - At least one digit (0–9)  
 - At least one special character (@, $, !, %, *, #, ?, &)
 
+## Where You Can Use This in Real Life 🌍 
+
+This password strength checker can be used in:
+
+- 🛡️ **Internal tools at your workplace**: To ensure employees set secure credentials.
+- 📱 **Educational apps**: Teaching users about strong vs. weak passwords.
+- 🧪 **Practice projects**: For learning how to apply regular expressions and security checks.
+- 🚀 **Portfolio projects**: Showcase your Python + regex knowledge in interviews or on GitHub.
+  
 ---
 
 ## How It Works
@@ -29,11 +38,3 @@ re.search(r"[@$!%*#?&]", password)  # Checks for at least one special symbol
 
 ---
 
-## Where You Can Use This in Real Life 🌍 
-
-This password strength checker can be used in:
-
-- 🛡️ **Internal tools at your workplace**: To ensure employees set secure credentials.
-- 📱 **Educational apps**: Teaching users about strong vs. weak passwords.
-- 🧪 **Practice projects**: For learning how to apply regular expressions and security checks.
-- 🚀 **Portfolio projects**: Showcase your Python + regex knowledge in interviews or on GitHub.
