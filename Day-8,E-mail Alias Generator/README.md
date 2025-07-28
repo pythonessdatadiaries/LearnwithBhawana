@@ -1,4 +1,4 @@
-#Email Alias Generator 📧 
+## Email Alias Generator 📧 
 
 A beginner-friendly Python project that helps you create smart and unique email aliases tailored to your needs—whether it's for job applications, newsletters, freelance gigs, personal use, or business communication.
 
