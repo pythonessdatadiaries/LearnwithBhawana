@@ -2,7 +2,7 @@ Email Alias Generator 📧
 
 This is a beginner-friendly Python project to help users create smart and unique email aliases based on the purpose of the email—such as job applications, newsletters, freelance work, personal use, or business.
 
-⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 Features ✅ 
 	•	Generates an email alias based on your name, purpose, and domain.
@@ -21,9 +21,9 @@ How It Works✅
 name + connector + keyword + number (optional) + @domain
 Example: bhawanasaxenacv@yahoo.com
 
-⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
-Code Structure
+Code Structure 🛠 
 	1.	main.py
 This file handles user interaction (input/output). It’s the entry point of the project and keeps logic separate from the core alias generation logic, which is best practice in real-world coding.
 It:
@@ -38,7 +38,10 @@ Contains the function generate_alias():
 	•	Optionally adds a number
 	•	Constructs the email alias
 
-🔁 Sample Scenario
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
+
+Sample Scenario : 
 Welcome to Email Alias Generator!
 Enter your name: Sam
 What is this email for ?(job,newsletter,freelance,personal,business): newsletter
@@ -57,7 +60,7 @@ Enter the number: 098
 Your smart email alias is:
 sam-subscribe098@yahoo.com
 
-⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 Why Separate main.py?
 
@@ -66,7 +69,7 @@ In Python, separating the logic (in email_alias_generator.py) from the script th
 	•	Keep code organized and readable
 	•	Easier to test or expand later
 
-⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 Requirements ✅ 
 
