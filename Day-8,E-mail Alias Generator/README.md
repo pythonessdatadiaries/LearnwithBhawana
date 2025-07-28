@@ -5,18 +5,17 @@ This is a beginner-friendly Python project to help users create smart and unique
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 Features ✅ 
-	•	Generates an email alias based on your name, purpose, and domain.
-	•	Adds a relevant keyword depending on your selected email purpose.
-	•	Gives you the choice to add:
-	•	a random number
-	•	a custom number
-	•	or no number at all
-	•	Helps you create a professional or fun alias based on your need.
+	- Generates an email alias based on your name, purpose, and domain.
+	- Adds a relevant keyword depending on your selected email purpose.
+	- Gives you the choice to add:
+	- a random number
+	- a custom number or no number at all
+	- Helps you create a professional or fun alias based on your need.
 
 How It Works✅ 
-	•	You run the program via main.py, which interacts with the user.
-	•	It takes user inputs and passes them to generate_alias() (from email_alias_generator.py).
-	•	generate_alias() selects a relevant keyword and connector, and constructs the final alias in this format:
+	- You run the program via main.py, which interacts with the user.
+	- It takes user inputs and passes them to generate_alias() (from email_alias_generator.py).
+	- generate_alias() selects a relevant keyword and connector, and constructs the final alias in this format:
 
 name + connector + keyword + number (optional) + @domain
 Example: bhawanasaxenacv@yahoo.com
@@ -27,16 +26,17 @@ Code Structure 🛠
 	1.	main.py
 This file handles user interaction (input/output). It’s the entry point of the project and keeps logic separate from the core alias generation logic, which is best practice in real-world coding.
 It:
-	•	Displays domain choices
-	•	Takes user input
-	•	Validates the input
-	•	Calls the generate_alias() function with user data
+	- Displays domain choices
+	- Takes user input
+	- Validates the input
+	- Calls the generate_alias() function with user data
+ 
 	2.	email_alias_generator.py
 Contains the function generate_alias():
-	•	Cleans and formats the name
-	•	Selects a keyword from a predefined list based on the email’s purpose
-	•	Optionally adds a number
-	•	Constructs the email alias
+	- Cleans and formats the name
+	- Selects a keyword from a predefined list based on the email’s purpose
+	- Optionally adds a number
+	- Constructs the email alias
 
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
