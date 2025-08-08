@@ -1,4 +1,4 @@
-# 🐍 Python Generators: Beginner Guide + Interview Prep
+# Python Generators: Beginner Guide + Interview Prep
 
 Welcome to the fun zone of Python Generators!  
 If you're a **first-timer**, this guide (plus the attached PDF) will help you understand generators with ease — and prep you like a pro for your next interview.
