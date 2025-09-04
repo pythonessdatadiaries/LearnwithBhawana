@@ -8,6 +8,8 @@ Here I break down coding, interview hacks, and tech concepts in the easiest way 
 
 ## 📌 Topic: 5 Python Functions You Must Know  
 
+Video link : https://www.instagram.com/reel/DOGfFfiEz_g/?igsh=MThscWZ6dWlyYmdxbQ==
+
 In this session, we cover 5 powerful functions that every Python learner should master:  
 1. **range()** – for looping sequences  
 2. **enumerate()** – for getting index + value in loops  
