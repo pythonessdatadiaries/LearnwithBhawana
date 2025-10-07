@@ -48,7 +48,8 @@ Check the [link in bio / video description / website] for details.
 ---
 
 **Created by:** Learn with Bhawana  
-**Website / Instagram / YouTube **:
-** instagram.com/learnwithbhawana?igsh=bHJzdjc3MmlrZm13
+**Website / Instagram / YouTube :
 
-** https://www.youtube.com/@learnwithbhawana
+instagram.com/learnwithbhawana?igsh=bHJzdjc3MmlrZm13
+
+https://www.youtube.com/@learnwithbhawana
