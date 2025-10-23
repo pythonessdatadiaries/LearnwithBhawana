@@ -32,7 +32,7 @@ This web app includes Diya designs, festive recipes, and an email-based wish sen
 pip install flask
 python app.py(for windows)
 python3 app.py(for Mac/Linux)
-
+```
 ---
 
 ## Steps to download and run the project:
