@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>💌 Send Your Diwali Wish</h2>
+<form method="POST">
+    Name: <input type="text" name="name" required><br>
+    Message: <input type="text" name="message" required><br>
+    <button type="submit">Send</button>
+</form>
+
+<h3>📝 Wishes from Others:</h3>
+<ul>
+{% for w in wishes %}
+    <li><b>{{ w.name }}:</b> {{ w.message }}</li>
+{% endfor %}
+</ul>
+{% endblock %}

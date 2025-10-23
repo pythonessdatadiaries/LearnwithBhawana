@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>🍪 Diwali Recipes</h2>
+<ul>
+{% for r in recipes %}
+    <li><b>{{ r.name }}</b> - {{ r.recipe }}</li>
+{% endfor %}
+</ul>
+{% endblock %}

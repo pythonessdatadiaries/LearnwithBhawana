@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>🪔 Beautiful Diya Designs 🪔</h2>
+
+<p>Here’s a warm Diya to brighten your Diwali!</p>
+
+<!-- Display diya image -->
+<img src="{{ url_for('static', filename='images/diyas.jpg') }}" 
+     alt="Diya Image" 
+     width="300" 
+     style="border-radius: 20px; box-shadow: 0 0 20px orange;">
+
+<p style="margin-top: 20px;">May this Diwali bring light, love, and joy to your home. ✨</p>
+{% endblock %}
