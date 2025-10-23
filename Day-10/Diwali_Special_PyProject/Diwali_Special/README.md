@@ -28,5 +28,3 @@ A Diwali special project from Learn With Bhawana 🧡
 Happy Coding & Happy Diwali! 🎆
 
 ---
-
-Would you like me to add a **“Try it yourself” section** with small code snippets (e.g., how to add a new route or render a new template) — to make the README even more helpful for beginners browsing your GitHub?
