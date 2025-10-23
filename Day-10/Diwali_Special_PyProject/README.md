@@ -32,3 +32,28 @@ This web app includes Diya designs, festive recipes, and an email-based wish sen
 pip install flask
 python app.py(for windows)
 python3 app.py(for Mac/Linux)
+
+---
+
+## Steps to download and run the project:
+
+- Clone the repo (HTTPS — no SSH setup needed) git clone https://github.com/pythonessdatadiaries/LearnwithBhawana.git cd LearnwithBhawana
+
+- (Optional) Switch to the branch used in the repo git fetch origin git checkout Python-Projects
+
+- Create and activate a Python virtual environment python3 -m venv .venv source .venv/bin/activate
+
+- Install dependencies (if present) pip install flask
+
+- Run the project (pick the appropriate command)
+
+- Flask: export FLASK_APP=app.py # macOS/Linux flask run
+
+- Basic workflow to make & push changes : 
+  - git checkout -b my-change
+  - git add -A
+  - git commit -m "Describe change"
+  - git push -u origin my-change
+(If git asks for credentials, use gh auth login or create a fine‑grained Personal Access Token with Repository > Contents: Read & write and use it as the password.)
+
+
