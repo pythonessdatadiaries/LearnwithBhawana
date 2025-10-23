@@ -1,34 +1,9 @@
-Here’s the updated README.md section you can paste inside your diwali_site project folder —
-it now includes clear, beginner-friendly explanations for both app.py and test_app.py 👇
-
-⸻
-
-
-# 🪔 PyWali Diwali – A Flask Web App to Celebrate Diwali with Code 🎇
-
-A fun Python Flask project to celebrate Diwali!  
-This web app includes Diya designs, festive recipes, and an email-based wish sender.
-
----
-
-## 🌟 Features
-- 🪔 **Diyas Page:** Displays a beautiful diya image.
-- 🍬 **Recipes Page:** Lists Diwali sweets & snacks.
-- 💌 **Wishes Page:** Lets users send Diwali wishes with an image via email.
-
----
-
 ## 🧩 Project Structure
 
 | File / Folder | Description |
 |----------------|-------------|
 | `app.py` | The **main Flask application** that connects all pages — Home, Diyas, Recipes, and Wishes. It handles routes, user form submissions, and calls templates for rendering content. |
 | `test_app.py` | A **testing script** to check if the Flask app runs correctly — great for beginners to learn how to test Flask apps easily. |
-| `templates/` | Folder containing all HTML templates (`index.html`, `diyas.html`, `recipes.html`, `wishes.html`, `base.html`). |
-| `static/` | Folder for images like `diya.jpg` and other static assets (CSS, icons, etc.). |
-| `README.md` | This file — explains the project setup and structure in simple words. |
-
----
 
 ## 🚀 How to Run Locally
 ```bash
