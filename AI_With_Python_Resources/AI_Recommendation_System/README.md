@@ -39,5 +39,27 @@ If a user likes **"Diwali Kurta Set"**, the system might recommend:
 - Matching Earrings  
 - Jutti Shoes  
 - Dupatta  
-- Bangles Set  
+- Bangles Set
 
+
+## 🚀 How to Run
+
+### Option 1: Clone the Project
+- Clone both the `.ipynb` (notebook) and `.csv` (dataset) files using:
+  ```bash
+  git clone https://github.com/pythonessdatadiaries/AI_With_Python_Resources/AI_Recommendation_System
+  ```
+
+- You can also directly download both files manually from the above repository.
+- Install Jupyter Notebook by running: : https://jupyter.org/install
+- Launch Jupyter Notebook and Open the file : diwali_recommendation_system.ipynb
+- Locate the line in the code:
+  ```bash
+  data = pd.read_csv(r"/Users/bhawanasaxena/Downloads/diwali_products.csv", encoding_errors='ignore')
+  ```
+- Update the CSV path with your local file path, for example:
+  ```bash
+  data = pd.read_csv(r"C:/Users/YourName/Downloads/diwali_products.csv", encoding_errors='ignore')
+  ```
+- Run all cells (use Run All from the “Cell” menu or press Shift + Enter).
+  
