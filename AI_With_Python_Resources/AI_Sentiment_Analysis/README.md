@@ -31,7 +31,6 @@ df = pd.read_csv("sentiment_data.csv")
 ```
 No changes needed — just ensure the CSV is present.
 
-⸻
 
 ### Step 3: Run Cells One by One
 
@@ -50,7 +49,6 @@ Execute each cell to see:
 
 **Perfect for beginners entering Python + Data Science!**
 
-⸻
 ###  Output File📤
 
 The notebook also generates:
@@ -60,10 +58,10 @@ sentiment_output.csv
 
 This contains all reviews and their predicted sentiments.
 
-⸻
 
-Contribute / Extend❤️ 
+## Contribute / Extend❤️ 
 You can upgrade this project by adding:
+
 	•	More keywords
 	•	Advanced NLP models (VADER / TextBlob)
 	•	Machine Learning classifiers
