@@ -88,9 +88,9 @@ Perfect for ML beginners, interview preparation, and portfolio projects.
 If you found this project helpful:
 
 👉 Follow & learn more at @learnwithbhawana
-	•	YouTube
-	•	Instagram
-	•	Short ML & Python tutorials
-	•	Interview preparation content
+	- YouTube
+	- Instagram
+	- Short ML & Python tutorials
+	- Interview preparation content
 
 Let’s make Machine Learning simple, practical, and fun 🚀
