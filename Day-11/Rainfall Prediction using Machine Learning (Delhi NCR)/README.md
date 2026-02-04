@@ -1,4 +1,4 @@
-🌧️ Rainfall Prediction using Machine Learning (Delhi NCR)
+## 🌧️ Rainfall Prediction using Machine Learning (Delhi NCR)
 
 This project predicts whether it will rain or not using Machine Learning, based on weather conditions inspired by Delhi NCR rainfall patterns.
 
