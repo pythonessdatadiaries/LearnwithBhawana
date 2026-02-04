@@ -83,11 +83,11 @@ Perfect for ML beginners, interview preparation, and portfolio projects.
 
 ---
 
-🙌 Connect & Learn More
+## 🙌 Connect & Learn More
 
 If you found this project helpful:
 
-👉 Follow & learn more at @learnwithbhawana
+## Follow & learn more at @learnwithbhawana
 	- YouTube
 	- Instagram
 	- Short ML & Python tutorials
