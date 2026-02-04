@@ -6,7 +6,7 @@ The goal of this project is to demonstrate an end-to-end ML workflow — from da
 
 ---
 
-**📌 Project Overview**
+## 📌 Project Overview
 	- Problem Type: Binary Classification
 	- Target Variable: rainfall (yes / no)
 	- Approach: Supervised Machine Learning
@@ -14,33 +14,33 @@ The goal of this project is to demonstrate an end-to-end ML workflow — from da
 
 ---
 
-**Files in This Repository**
+## Files in This Repository
 	- Rainfall_Prediction_using_Machine_Learning_Python.ipynb
 	- Jupyter Notebook containing complete ML code and explanation : **delhi_ncr_rainfall.csv**
 	- Synthetic dataset created using Delhi NCR weather patterns with correlated features
 	
-#README.md
-- Project documentation (this file)
+## README.md
+ - Project documentation (this file)
 
 ---
 
-**Dataset Description**
+## Dataset Description
 
 The dataset contains weather-related features such as:
-	•	Temperature (max, min, average)
-	•	Humidity
-	•	Dew Point
-	•	Cloud cover
-	•	Sunshine
-	•	Wind speed & direction
-	•	Atmospheric pressure
-	•	Rainfall (Target)
+	- Temperature (max, min, average)
+	- Humidity
+	- Dew Point
+	- Cloud cover
+	- Sunshine
+	- Wind speed & direction
+	- Atmospheric pressure
+	- Rainfall (Target)
 
 👉 The features are correlated realistically (for example: humidity ↔ cloud, cloud ↔ sunshine), making the dataset suitable for ML practice and interviews.
 
 ---
 
-**Tools & Libraries**
+## Tools & Libraries
 	•	Python
 	•	Pandas
 	•	NumPy
@@ -50,32 +50,32 @@ The dataset contains weather-related features such as:
 
 ---
 
-**Machine Learning Workflow**
+## Machine Learning Workflow
 	1.	Data loading and basic exploration
 	2.	Data cleaning and preprocessing
 	3.	Feature selection and scaling
 	4.	Train–test split
 	5.	Model training using:
-	•	Logistic Regression
-	•	Support Vector Machine (SVM)
-	•	XGBoost
+	- Logistic Regression
+	-  Support Vector Machine (SVM)
+	-  XGBoost
 	6.	Model evaluation and comparison
 
 ✔️ XGBoost performs best among the three models.
 
 ---
 
-**Why This Project?**
-	•	Easy to understand
-	•	Real-life inspired use case
-	•	Interview-ready ML project
-	•	Demonstrates model comparison clearly
+## Why This Project?
+	- Easy to understand
+	- Real-life inspired use case
+	- Interview-ready ML project
+	- Demonstrates model comparison clearly
 
 Perfect for ML beginners, interview preparation, and portfolio projects.
 
 ---
 
-**How to Run the Project**
+## How to Run the Project
 	1.	Clone the repository
 	2.	Open the notebook in Jupyter
 	3.	Make sure required libraries are installed
