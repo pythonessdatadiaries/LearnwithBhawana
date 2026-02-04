@@ -7,20 +7,20 @@ The goal of this project is to demonstrate an end-to-end ML workflow — from da
 ---
 
 **📌 Project Overview**
-	•	Problem Type: Binary Classification
-	•	Target Variable: rainfall (yes / no)
-	•	Approach: Supervised Machine Learning
-	•	Use Case: Weather-based rainfall prediction
+	- Problem Type: Binary Classification
+	- Target Variable: rainfall (yes / no)
+	- Approach: Supervised Machine Learning
+	- Use Case: Weather-based rainfall prediction
 
 ---
 
 **Files in This Repository**
-	•	Rainfall_Prediction_using_Machine_Learning_Python.ipynb
-→ Jupyter Notebook containing complete ML code and explanation
-	•	delhi_ncr_rainfall.csv
-→ Synthetic dataset created using Delhi NCR weather patterns with correlated features
-	•	README.md
-→ Project documentation (this file)
+	- Rainfall_Prediction_using_Machine_Learning_Python.ipynb
+	- Jupyter Notebook containing complete ML code and explanation : **delhi_ncr_rainfall.csv**
+	- Synthetic dataset created using Delhi NCR weather patterns with correlated features
+	
+#README.md
+- Project documentation (this file)
 
 ---
 
