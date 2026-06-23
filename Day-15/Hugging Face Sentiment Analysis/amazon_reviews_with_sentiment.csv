@@ -1,0 +1,501 @@
+review_id,product_name,rating,review,sentiment
+AMZ0001,Laptop Stand,5,Really good value for money. The laptop stand looks sturdy and the stability is surprisingly good.,Positive
+AMZ0002,Power Bank,4,Very happy with this power bank. It arrived on time and the battery backup works perfectly.,Positive
+AMZ0003,Vacuum Cleaner,5,Very happy with this vacuum cleaner. It arrived on time and the suction works perfectly.,Positive
+AMZ0004,Power Bank,5,Absolutely loved this power bank. The battery backup is excellent and it feels premium for the price.,Positive
+AMZ0005,Usb Hub,5,"I was skeptical at first, but this USB hub turned out to be fantastic. Great port connectivity.",Positive
+AMZ0006,Wireless Earbuds,3,"I had high hopes, but this wireless earbuds was a letdown. The sound quality is below average.",Negative
+AMZ0007,Gaming Mouse,5,I bought this gaming mouse for daily use and I'm impressed with the tracking. Highly recommend.,Positive
+AMZ0008,Laptop Stand,5,Very happy with this laptop stand. It arrived on time and the stability works perfectly.,Positive
+AMZ0009,Coffee Mug,3,Very disappointed with this coffee mug. The finish stopped working after a few days.,Negative
+AMZ0010,Usb Hub,4,The packaging was neat and the USB hub feels well-built. No complaints so far.,Positive
+AMZ0011,Usb Hub,5,Excellent product. I've been using this USB hub for a week and the performance is smooth.,Positive
+AMZ0012,Backpack,2,Very disappointed with this backpack. The storage space stopped working after a few days.,Negative
+AMZ0013,Keyboard,3,Decent keyboard overall. Delivery was fine and setup took only a few minutes.,Negative
+AMZ0014,Air Fryer,5,One of the best purchases I've made recently. The air fryer performs exactly as described.,Positive
+AMZ0015,Coffee Mug,4,Really good value for money. The coffee mug looks sturdy and the finish is surprisingly good.,Positive
+AMZ0016,Bluetooth Speaker,5,I bought this Bluetooth speaker for daily use and I'm impressed with the bass. Highly recommend.,Positive
+AMZ0017,Tripod,5,Works like a charm. The tripod is reliable and the setup was super easy.,Positive
+AMZ0018,Gaming Mouse,2,Very disappointed with this gaming mouse. The tracking stopped working after a few days.,Negative
+AMZ0019,Phone Charger,2,I returned this phone charger because it did not match the description at all.,Negative
+AMZ0020,Water Bottle,5,Excellent product. I've been using this water bottle for a week and the performance is smooth.,Positive
+AMZ0021,Backpack,3,I returned this backpack because it did not match the description at all.,Negative
+AMZ0022,Desk Lamp,5,I bought this desk lamp for daily use and I'm impressed with the brightness. Highly recommend.,Positive
+AMZ0023,Vacuum Cleaner,3,The vacuum cleaner is fine for the price. Build quality is acceptable and performance is average.,Positive
+AMZ0024,Power Bank,4,Decent power bank overall. Delivery was fine and setup took only a few minutes.,Positive
+AMZ0025,Fitness Band,4,Absolutely loved this fitness band. The step tracking is excellent and it feels premium for the price.,Positive
+AMZ0026,Desk Lamp,1,I returned this desk lamp because it did not match the description at all.,Negative
+AMZ0027,Air Fryer,5,"I was skeptical at first, but this air fryer turned out to be fantastic. Great cooking performance.",Positive
+AMZ0028,Usb Hub,4,"The USB hub is okay for basic use. The port connectivity works, but nothing exceptional.",Negative
+AMZ0029,Laptop Stand,2,The item stopped working within a week. Customer support was also not helpful.,Negative
+AMZ0030,Gaming Mouse,5,The packaging was neat and the gaming mouse feels well-built. No complaints so far.,Positive
+AMZ0031,Tripod,5,Really good value for money. The tripod looks sturdy and the stability is surprisingly good.,Positive
+AMZ0032,Monitor Stand,4,"Average experience with this monitor stand. It does the job, but there is room for improvement.",Negative
+AMZ0033,Monitor Stand,2,"I had high hopes, but this monitor stand was a letdown. The adjustability is below average.",Negative
+AMZ0034,Bluetooth Speaker,4,Works like a charm. The Bluetooth speaker is reliable and the setup was super easy.,Positive
+AMZ0035,Gaming Mouse,5,Very happy with this gaming mouse. It arrived on time and the tracking works perfectly.,Positive
+AMZ0036,Keyboard,4,I bought this keyboard for daily use and I'm impressed with the key response. Highly recommend.,Positive
+AMZ0037,Water Bottle,2,The quality of this water bottle is not as expected. It feels cheap and poorly made.,Negative
+AMZ0038,Desk Lamp,2,The item stopped working within a week. Customer support was also not helpful.,Negative
+AMZ0039,Phone Case,5,Excellent product. I've been using this phone case for a week and the performance is smooth.,Positive
+AMZ0040,Backpack,4,Decent backpack overall. Delivery was fine and setup took only a few minutes.,Negative
+AMZ0041,Keyboard,5,One of the best purchases I've made recently. The keyboard performs exactly as described.,Positive
+AMZ0042,Monitor Stand,5,I bought this monitor stand for daily use and I'm impressed with the adjustability. Highly recommend.,Positive
+AMZ0043,Water Bottle,5,Excellent product. I've been using this water bottle for a week and the performance is smooth.,Positive
+AMZ0044,Power Bank,5,Absolutely loved this power bank. The battery backup is excellent and it feels premium for the price.,Positive
+AMZ0045,Water Bottle,3,"Average experience with this water bottle. It does the job, but there is room for improvement.",Negative
+AMZ0046,Monitor Stand,5,"I was skeptical at first, but this monitor stand turned out to be fantastic. Great adjustability.",Positive
+AMZ0047,Usb Hub,5,Excellent product. I've been using this USB hub for a week and the performance is smooth.,Positive
+AMZ0048,Power Bank,2,I returned this power bank because it did not match the description at all.,Negative
+AMZ0049,Laptop Stand,5,The packaging was neat and the laptop stand feels well-built. No complaints so far.,Positive
+AMZ0050,Vacuum Cleaner,4,Absolutely loved this vacuum cleaner. The suction is excellent and it feels premium for the price.,Positive
+AMZ0051,Phone Charger,4,One of the best purchases I've made recently. The phone charger performs exactly as described.,Positive
+AMZ0052,Power Bank,5,Works like a charm. The power bank is reliable and the setup was super easy.,Positive
+AMZ0053,Desk Lamp,5,Really good value for money. The desk lamp looks sturdy and the brightness is surprisingly good.,Positive
+AMZ0054,Power Bank,3,"The power bank is okay for basic use. The battery backup works, but nothing exceptional.",Negative
+AMZ0055,Usb Hub,4,Works like a charm. The USB hub is reliable and the setup was super easy.,Positive
+AMZ0056,Water Bottle,3,Decent water bottle overall. Delivery was fine and setup took only a few minutes.,Negative
+AMZ0057,Vacuum Cleaner,5,I bought this vacuum cleaner for daily use and I'm impressed with the suction. Highly recommend.,Positive
+AMZ0058,Phone Charger,5,Absolutely loved this phone charger. The charging speed is excellent and it feels premium for the price.,Positive
+AMZ0059,Phone Case,3,The phone case is fine for the price. Build quality is acceptable and performance is average.,Positive
+AMZ0060,Vacuum Cleaner,3,The item stopped working within a week. Customer support was also not helpful.,Negative
+AMZ0061,Desk Lamp,4,I bought this desk lamp for daily use and I'm impressed with the brightness. Highly recommend.,Positive
+AMZ0062,Usb Hub,4,One of the best purchases I've made recently. The USB hub performs exactly as described.,Positive
+AMZ0063,Phone Charger,2,The item stopped working within a week. Customer support was also not helpful.,Negative
+AMZ0064,Phone Charger,3,"The phone charger is okay for basic use. The charging speed works, but nothing exceptional.",Negative
+AMZ0065,Water Bottle,3,Not worth the price. The water bottle arrived late and the packaging was damaged.,Negative
+AMZ0066,Laptop Stand,3,"Not bad, not amazing. The stability is usable, but I expected a bit more.",Negative
+AMZ0067,Phone Charger,2,I returned this phone charger because it did not match the description at all.,Negative
+AMZ0068,Phone Case,5,One of the best purchases I've made recently. The phone case performs exactly as described.,Positive
+AMZ0069,Phone Case,5,Really good value for money. The phone case looks sturdy and the fit is surprisingly good.,Positive
+AMZ0070,Gaming Mouse,3,"The gaming mouse is okay for basic use. The tracking works, but nothing exceptional.",Negative
+AMZ0071,Tripod,1,Honestly expected better. The tripod is average at best and overpriced.,Negative
+AMZ0072,Water Bottle,5,Works like a charm. The water bottle is reliable and the setup was super easy.,Positive
+AMZ0073,Desk Lamp,3,"The desk lamp is okay for basic use. The brightness works, but nothing exceptional.",Negative
+AMZ0074,Coffee Mug,5,"I was skeptical at first, but this coffee mug turned out to be fantastic. Great finish.",Positive
+AMZ0075,Monitor Stand,5,Works like a charm. The monitor stand is reliable and the setup was super easy.,Positive
+AMZ0076,Laptop Stand,3,Decent laptop stand overall. Delivery was fine and setup took only a few minutes.,Negative
+AMZ0077,Laptop Stand,3,"Not bad, not amazing. The stability is usable, but I expected a bit more.",Negative
+AMZ0078,Phone Case,5,I bought this phone case for daily use and I'm impressed with the fit. Highly recommend.,Positive
+AMZ0079,Backpack,3,This backpack looks nice in pictures but performs badly in real life.,Negative
+AMZ0080,Phone Case,3,"The phone case is okay for basic use. The fit works, but nothing exceptional.",Negative
+AMZ0081,Vacuum Cleaner,1,Very disappointed with this vacuum cleaner. The suction stopped working after a few days.,Negative
+AMZ0082,Gaming Mouse,2,This gaming mouse looks nice in pictures but performs badly in real life.,Negative
+AMZ0083,Tripod,4,The packaging was neat and the tripod feels well-built. No complaints so far.,Positive
+AMZ0084,Laptop Stand,4,"This laptop stand exceeded my expectations. Great quality, easy to use, and worth every rupee.",Positive
+AMZ0085,Coffee Mug,3,"I had high hopes, but this coffee mug was a letdown. The finish is below average.",Negative
+AMZ0086,Desk Lamp,4,One of the best purchases I've made recently. The desk lamp performs exactly as described.,Positive
+AMZ0087,Coffee Mug,4,I bought this coffee mug for daily use and I'm impressed with the finish. Highly recommend.,Positive
+AMZ0088,Coffee Mug,2,I returned this coffee mug because it did not match the description at all.,Negative
+AMZ0089,Power Bank,3,Decent power bank overall. Delivery was fine and setup took only a few minutes.,Positive
+AMZ0090,Wireless Earbuds,5,One of the best purchases I've made recently. The wireless earbuds performs exactly as described.,Positive
+AMZ0091,Power Bank,5,Very happy with this power bank. It arrived on time and the battery backup works perfectly.,Positive
+AMZ0092,Phone Charger,3,Decent phone charger overall. Delivery was fine and setup took only a few minutes.,Negative
+AMZ0093,Tripod,5,I bought this tripod for daily use and I'm impressed with the stability. Highly recommend.,Positive
+AMZ0094,Wireless Earbuds,2,I returned this wireless earbuds because it did not match the description at all.,Negative
+AMZ0095,Phone Case,3,"Average experience with this phone case. It does the job, but there is room for improvement.",Negative
+AMZ0096,Monitor Stand,5,Works like a charm. The monitor stand is reliable and the setup was super easy.,Positive
+AMZ0097,Wireless Earbuds,5,Really good value for money. The wireless earbuds looks sturdy and the sound quality is surprisingly good.,Positive
+AMZ0098,Phone Case,5,Excellent product. I've been using this phone case for a week and the performance is smooth.,Positive
+AMZ0099,Coffee Mug,3,The finish is inconsistent and the coffee mug does not feel durable.,Negative
+AMZ0100,Monitor Stand,5,Excellent product. I've been using this monitor stand for a week and the performance is smooth.,Positive
+AMZ0101,Phone Case,4,The packaging was neat and the phone case feels well-built. No complaints so far.,Positive
+AMZ0102,Monitor Stand,4,"Not bad, not amazing. The adjustability is usable, but I expected a bit more.",Negative
+AMZ0103,Backpack,5,Very happy with this backpack. It arrived on time and the storage space works perfectly.,Positive
+AMZ0104,Gaming Mouse,2,The quality of this gaming mouse is not as expected. It feels cheap and poorly made.,Negative
+AMZ0105,Monitor Stand,5,The packaging was neat and the monitor stand feels well-built. No complaints so far.,Positive
+AMZ0106,Air Fryer,2,The item stopped working within a week. Customer support was also not helpful.,Negative
+AMZ0107,Backpack,5,The packaging was neat and the backpack feels well-built. No complaints so far.,Positive
+AMZ0108,Keyboard,5,Absolutely loved this keyboard. The key response is excellent and it feels premium for the price.,Positive
+AMZ0109,Keyboard,5,Excellent product. I've been using this keyboard for a week and the performance is smooth.,Positive
+AMZ0110,Tripod,5,I bought this tripod for daily use and I'm impressed with the stability. Highly recommend.,Positive
+AMZ0111,Bluetooth Speaker,2,This Bluetooth speaker looks nice in pictures but performs badly in real life.,Negative
+AMZ0112,Water Bottle,2,Not worth the price. The water bottle arrived late and the packaging was damaged.,Negative
+AMZ0113,Power Bank,1,"I had high hopes, but this power bank was a letdown. The battery backup is below average.",Negative
+AMZ0114,Phone Charger,4,"I was skeptical at first, but this phone charger turned out to be fantastic. Great charging speed.",Positive
+AMZ0115,Tripod,5,Excellent product. I've been using this tripod for a week and the performance is smooth.,Positive
+AMZ0116,Air Fryer,5,I bought this air fryer for daily use and I'm impressed with the cooking performance. Highly recommend.,Positive
+AMZ0117,Wireless Earbuds,3,"The wireless earbuds is okay for basic use. The sound quality works, but nothing exceptional.",Negative
+AMZ0118,Power Bank,5,Works like a charm. The power bank is reliable and the setup was super easy.,Positive
+AMZ0119,Phone Charger,5,Very happy with this phone charger. It arrived on time and the charging speed works perfectly.,Positive
+AMZ0120,Desk Lamp,2,The item stopped working within a week. Customer support was also not helpful.,Negative
+AMZ0121,Tripod,3,The item stopped working within a week. Customer support was also not helpful.,Negative
+AMZ0122,Usb Hub,5,"This USB hub exceeded my expectations. Great quality, easy to use, and worth every rupee.",Positive
+AMZ0123,Tripod,5,I bought this tripod for daily use and I'm impressed with the stability. Highly recommend.,Positive
+AMZ0124,Monitor Stand,5,I bought this monitor stand for daily use and I'm impressed with the adjustability. Highly recommend.,Positive
+AMZ0125,Tripod,5,Really good value for money. The tripod looks sturdy and the stability is surprisingly good.,Positive
+AMZ0126,Phone Case,4,Works like a charm. The phone case is reliable and the setup was super easy.,Positive
+AMZ0127,Desk Lamp,5,The packaging was neat and the desk lamp feels well-built. No complaints so far.,Positive
+AMZ0128,Backpack,5,The packaging was neat and the backpack feels well-built. No complaints so far.,Positive
+AMZ0129,Usb Hub,5,Absolutely loved this USB hub. The port connectivity is excellent and it feels premium for the price.,Positive
+AMZ0130,Vacuum Cleaner,4,Excellent product. I've been using this vacuum cleaner for a week and the performance is smooth.,Positive
+AMZ0131,Air Fryer,5,One of the best purchases I've made recently. The air fryer performs exactly as described.,Positive
+AMZ0132,Air Fryer,4,The air fryer is fine for the price. Build quality is acceptable and performance is average.,Positive
+AMZ0133,Usb Hub,3,Not worth the price. The USB hub arrived late and the packaging was damaged.,Negative
+AMZ0134,Power Bank,4,"I was skeptical at first, but this power bank turned out to be fantastic. Great battery backup.",Positive
+AMZ0135,Air Fryer,5,The packaging was neat and the air fryer feels well-built. No complaints so far.,Positive
+AMZ0136,Tripod,4,"Not bad, not amazing. The stability is usable, but I expected a bit more.",Negative
+AMZ0137,Wireless Earbuds,4,"Not bad, not amazing. The sound quality is usable, but I expected a bit more.",Negative
+AMZ0138,Wireless Earbuds,5,The packaging was neat and the wireless earbuds feels well-built. No complaints so far.,Positive
+AMZ0139,Tripod,5,Really good value for money. The tripod looks sturdy and the stability is surprisingly good.,Positive
+AMZ0140,Gaming Mouse,5,One of the best purchases I've made recently. The gaming mouse performs exactly as described.,Positive
+AMZ0141,Air Fryer,5,The packaging was neat and the air fryer feels well-built. No complaints so far.,Positive
+AMZ0142,Water Bottle,4,Works like a charm. The water bottle is reliable and the setup was super easy.,Positive
+AMZ0143,Coffee Mug,4,Very happy with this coffee mug. It arrived on time and the finish works perfectly.,Positive
+AMZ0144,Wireless Earbuds,3,Decent wireless earbuds overall. Delivery was fine and setup took only a few minutes.,Negative
+AMZ0145,Desk Lamp,4,"I was skeptical at first, but this desk lamp turned out to be fantastic. Great brightness.",Positive
+AMZ0146,Backpack,5,Really good value for money. The backpack looks sturdy and the storage space is surprisingly good.,Positive
+AMZ0147,Bluetooth Speaker,2,The quality of this Bluetooth speaker is not as expected. It feels cheap and poorly made.,Negative
+AMZ0148,Keyboard,5,Absolutely loved this keyboard. The key response is excellent and it feels premium for the price.,Positive
+AMZ0149,Air Fryer,4,I bought this air fryer for daily use and I'm impressed with the cooking performance. Highly recommend.,Positive
+AMZ0150,Power Bank,4,Really good value for money. The power bank looks sturdy and the battery backup is surprisingly good.,Positive
+AMZ0151,Phone Charger,5,The packaging was neat and the phone charger feels well-built. No complaints so far.,Positive
+AMZ0152,Water Bottle,4,One of the best purchases I've made recently. The water bottle performs exactly as described.,Positive
+AMZ0153,Vacuum Cleaner,3,The quality of this vacuum cleaner is not as expected. It feels cheap and poorly made.,Negative
+AMZ0154,Coffee Mug,2,Battery life / performance is poor on this coffee mug. I would not recommend it.,Negative
+AMZ0155,Vacuum Cleaner,5,Works like a charm. The vacuum cleaner is reliable and the setup was super easy.,Positive
+AMZ0156,Usb Hub,3,Battery life / performance is poor on this USB hub. I would not recommend it.,Negative
+AMZ0157,Phone Case,4,I bought this phone case for daily use and I'm impressed with the fit. Highly recommend.,Positive
+AMZ0158,Phone Case,3,Decent phone case overall. Delivery was fine and setup took only a few minutes.,Negative
+AMZ0159,Air Fryer,5,"I was skeptical at first, but this air fryer turned out to be fantastic. Great cooking performance.",Positive
+AMZ0160,Bluetooth Speaker,5,One of the best purchases I've made recently. The Bluetooth speaker performs exactly as described.,Positive
+AMZ0161,Gaming Mouse,5,Excellent product. I've been using this gaming mouse for a week and the performance is smooth.,Positive
+AMZ0162,Usb Hub,4,I bought this USB hub for daily use and I'm impressed with the port connectivity. Highly recommend.,Positive
+AMZ0163,Power Bank,2,Battery life / performance is poor on this power bank. I would not recommend it.,Negative
+AMZ0164,Fitness Band,3,Battery life / performance is poor on this fitness band. I would not recommend it.,Negative
+AMZ0165,Wireless Earbuds,5,I bought this wireless earbuds for daily use and I'm impressed with the sound quality. Highly recommend.,Positive
+AMZ0166,Power Bank,5,Excellent product. I've been using this power bank for a week and the performance is smooth.,Positive
+AMZ0167,Fitness Band,5,One of the best purchases I've made recently. The fitness band performs exactly as described.,Positive
+AMZ0168,Usb Hub,5,"I was skeptical at first, but this USB hub turned out to be fantastic. Great port connectivity.",Positive
+AMZ0169,Keyboard,5,Very happy with this keyboard. It arrived on time and the key response works perfectly.,Positive
+AMZ0170,Gaming Mouse,5,Works like a charm. The gaming mouse is reliable and the setup was super easy.,Positive
+AMZ0171,Backpack,5,"I was skeptical at first, but this backpack turned out to be fantastic. Great storage space.",Positive
+AMZ0172,Monitor Stand,2,The quality of this monitor stand is not as expected. It feels cheap and poorly made.,Negative
+AMZ0173,Keyboard,5,"This keyboard exceeded my expectations. Great quality, easy to use, and worth every rupee.",Positive
+AMZ0174,Wireless Earbuds,2,"I had high hopes, but this wireless earbuds was a letdown. The sound quality is below average.",Negative
+AMZ0175,Phone Charger,3,"Not bad, not amazing. The charging speed is usable, but I expected a bit more.",Negative
+AMZ0176,Desk Lamp,1,Battery life / performance is poor on this desk lamp. I would not recommend it.,Negative
+AMZ0177,Wireless Earbuds,5,"I was skeptical at first, but this wireless earbuds turned out to be fantastic. Great sound quality.",Positive
+AMZ0178,Tripod,5,Absolutely loved this tripod. The stability is excellent and it feels premium for the price.,Positive
+AMZ0179,Fitness Band,5,Very happy with this fitness band. It arrived on time and the step tracking works perfectly.,Positive
+AMZ0180,Fitness Band,5,Absolutely loved this fitness band. The step tracking is excellent and it feels premium for the price.,Positive
+AMZ0181,Desk Lamp,1,This desk lamp looks nice in pictures but performs badly in real life.,Negative
+AMZ0182,Power Bank,5,The packaging was neat and the power bank feels well-built. No complaints so far.,Positive
+AMZ0183,Monitor Stand,5,"I was skeptical at first, but this monitor stand turned out to be fantastic. Great adjustability.",Positive
+AMZ0184,Vacuum Cleaner,4,Excellent product. I've been using this vacuum cleaner for a week and the performance is smooth.,Positive
+AMZ0185,Laptop Stand,4,Decent laptop stand overall. Delivery was fine and setup took only a few minutes.,Negative
+AMZ0186,Backpack,5,Very happy with this backpack. It arrived on time and the storage space works perfectly.,Positive
+AMZ0187,Power Bank,5,Very happy with this power bank. It arrived on time and the battery backup works perfectly.,Positive
+AMZ0188,Wireless Earbuds,5,Excellent product. I've been using this wireless earbuds for a week and the performance is smooth.,Positive
+AMZ0189,Keyboard,5,Really good value for money. The keyboard looks sturdy and the key response is surprisingly good.,Positive
+AMZ0190,Tripod,5,I bought this tripod for daily use and I'm impressed with the stability. Highly recommend.,Positive
+AMZ0191,Backpack,5,Works like a charm. The backpack is reliable and the setup was super easy.,Positive
+AMZ0192,Desk Lamp,3,Decent desk lamp overall. Delivery was fine and setup took only a few minutes.,Negative
+AMZ0193,Phone Charger,5,Really good value for money. The phone charger looks sturdy and the charging speed is surprisingly good.,Positive
+AMZ0194,Tripod,5,Really good value for money. The tripod looks sturdy and the stability is surprisingly good.,Positive
+AMZ0195,Phone Case,5,"I was skeptical at first, but this phone case turned out to be fantastic. Great fit.",Positive
+AMZ0196,Water Bottle,2,I returned this water bottle because it did not match the description at all.,Negative
+AMZ0197,Phone Case,4,I bought this phone case for daily use and I'm impressed with the fit. Highly recommend.,Positive
+AMZ0198,Phone Case,5,"This phone case exceeded my expectations. Great quality, easy to use, and worth every rupee.",Positive
+AMZ0199,Monitor Stand,2,This monitor stand looks nice in pictures but performs badly in real life.,Negative
+AMZ0200,Vacuum Cleaner,1,Battery life / performance is poor on this vacuum cleaner. I would not recommend it.,Negative
+AMZ0201,Fitness Band,5,One of the best purchases I've made recently. The fitness band performs exactly as described.,Positive
+AMZ0202,Laptop Stand,3,"Average experience with this laptop stand. It does the job, but there is room for improvement.",Negative
+AMZ0203,Fitness Band,4,The packaging was neat and the fitness band feels well-built. No complaints so far.,Positive
+AMZ0204,Tripod,5,Really good value for money. The tripod looks sturdy and the stability is surprisingly good.,Positive
+AMZ0205,Laptop Stand,4,The laptop stand is fine for the price. Build quality is acceptable and performance is average.,Positive
+AMZ0206,Wireless Earbuds,3,The item stopped working within a week. Customer support was also not helpful.,Negative
+AMZ0207,Vacuum Cleaner,5,Works like a charm. The vacuum cleaner is reliable and the setup was super easy.,Positive
+AMZ0208,Fitness Band,2,Very disappointed with this fitness band. The step tracking stopped working after a few days.,Negative
+AMZ0209,Phone Case,5,Really good value for money. The phone case looks sturdy and the fit is surprisingly good.,Positive
+AMZ0210,Fitness Band,5,Excellent product. I've been using this fitness band for a week and the performance is smooth.,Positive
+AMZ0211,Bluetooth Speaker,5,Absolutely loved this Bluetooth speaker. The bass is excellent and it feels premium for the price.,Positive
+AMZ0212,Water Bottle,5,Very happy with this water bottle. It arrived on time and the build quality works perfectly.,Positive
+AMZ0213,Laptop Stand,3,"I had high hopes, but this laptop stand was a letdown. The stability is below average.",Negative
+AMZ0214,Keyboard,5,Really good value for money. The keyboard looks sturdy and the key response is surprisingly good.,Positive
+AMZ0215,Fitness Band,3,Decent fitness band overall. Delivery was fine and setup took only a few minutes.,Positive
+AMZ0216,Usb Hub,5,I bought this USB hub for daily use and I'm impressed with the port connectivity. Highly recommend.,Positive
+AMZ0217,Water Bottle,5,The packaging was neat and the water bottle feels well-built. No complaints so far.,Positive
+AMZ0218,Monitor Stand,5,Absolutely loved this monitor stand. The adjustability is excellent and it feels premium for the price.,Positive
+AMZ0219,Keyboard,3,Honestly expected better. The keyboard is average at best and overpriced.,Negative
+AMZ0220,Desk Lamp,5,"I was skeptical at first, but this desk lamp turned out to be fantastic. Great brightness.",Positive
+AMZ0221,Gaming Mouse,5,Works like a charm. The gaming mouse is reliable and the setup was super easy.,Positive
+AMZ0222,Tripod,4,Decent tripod overall. Delivery was fine and setup took only a few minutes.,Negative
+AMZ0223,Power Bank,5,I bought this power bank for daily use and I'm impressed with the battery backup. Highly recommend.,Positive
+AMZ0224,Phone Charger,5,"I was skeptical at first, but this phone charger turned out to be fantastic. Great charging speed.",Positive
+AMZ0225,Air Fryer,3,Decent air fryer overall. Delivery was fine and setup took only a few minutes.,Negative
+AMZ0226,Phone Charger,5,Excellent product. I've been using this phone charger for a week and the performance is smooth.,Positive
+AMZ0227,Laptop Stand,3,The laptop stand is fine for the price. Build quality is acceptable and performance is average.,Positive
+AMZ0228,Monitor Stand,4,"The monitor stand is okay for basic use. The adjustability works, but nothing exceptional.",Negative
+AMZ0229,Desk Lamp,4,"This desk lamp exceeded my expectations. Great quality, easy to use, and worth every rupee.",Positive
+AMZ0230,Fitness Band,2,This fitness band looks nice in pictures but performs badly in real life.,Negative
+AMZ0231,Air Fryer,3,The cooking performance is inconsistent and the air fryer does not feel durable.,Negative
+AMZ0232,Gaming Mouse,1,Battery life / performance is poor on this gaming mouse. I would not recommend it.,Negative
+AMZ0233,Water Bottle,5,Really good value for money. The water bottle looks sturdy and the build quality is surprisingly good.,Positive
+AMZ0234,Water Bottle,4,Very happy with this water bottle. It arrived on time and the build quality works perfectly.,Positive
+AMZ0235,Tripod,4,Really good value for money. The tripod looks sturdy and the stability is surprisingly good.,Positive
+AMZ0236,Phone Charger,5,Absolutely loved this phone charger. The charging speed is excellent and it feels premium for the price.,Positive
+AMZ0237,Coffee Mug,5,"This coffee mug exceeded my expectations. Great quality, easy to use, and worth every rupee.",Positive
+AMZ0238,Monitor Stand,5,"This monitor stand exceeded my expectations. Great quality, easy to use, and worth every rupee.",Positive
+AMZ0239,Bluetooth Speaker,5,The packaging was neat and the Bluetooth speaker feels well-built. No complaints so far.,Positive
+AMZ0240,Fitness Band,3,Decent fitness band overall. Delivery was fine and setup took only a few minutes.,Positive
+AMZ0241,Tripod,2,Battery life / performance is poor on this tripod. I would not recommend it.,Negative
+AMZ0242,Wireless Earbuds,3,The wireless earbuds is fine for the price. Build quality is acceptable and performance is average.,Positive
+AMZ0243,Usb Hub,5,"I was skeptical at first, but this USB hub turned out to be fantastic. Great port connectivity.",Positive
+AMZ0244,Keyboard,2,I returned this keyboard because it did not match the description at all.,Negative
+AMZ0245,Tripod,3,Not worth the price. The tripod arrived late and the packaging was damaged.,Negative
+AMZ0246,Fitness Band,5,The packaging was neat and the fitness band feels well-built. No complaints so far.,Positive
+AMZ0247,Keyboard,3,"Average experience with this keyboard. It does the job, but there is room for improvement.",Negative
+AMZ0248,Air Fryer,4,Excellent product. I've been using this air fryer for a week and the performance is smooth.,Positive
+AMZ0249,Fitness Band,2,This fitness band looks nice in pictures but performs badly in real life.,Negative
+AMZ0250,Coffee Mug,5,I bought this coffee mug for daily use and I'm impressed with the finish. Highly recommend.,Positive
+AMZ0251,Desk Lamp,2,Very disappointed with this desk lamp. The brightness stopped working after a few days.,Negative
+AMZ0252,Tripod,5,One of the best purchases I've made recently. The tripod performs exactly as described.,Positive
+AMZ0253,Water Bottle,4,"Average experience with this water bottle. It does the job, but there is room for improvement.",Negative
+AMZ0254,Vacuum Cleaner,5,"This vacuum cleaner exceeded my expectations. Great quality, easy to use, and worth every rupee.",Positive
+AMZ0255,Monitor Stand,5,Really good value for money. The monitor stand looks sturdy and the adjustability is surprisingly good.,Positive
+AMZ0256,Phone Case,3,The phone case is fine for the price. Build quality is acceptable and performance is average.,Positive
+AMZ0257,Gaming Mouse,1,Battery life / performance is poor on this gaming mouse. I would not recommend it.,Negative
+AMZ0258,Desk Lamp,3,Not worth the price. The desk lamp arrived late and the packaging was damaged.,Negative
+AMZ0259,Usb Hub,4,The packaging was neat and the USB hub feels well-built. No complaints so far.,Positive
+AMZ0260,Phone Case,5,"I was skeptical at first, but this phone case turned out to be fantastic. Great fit.",Positive
+AMZ0261,Phone Case,1,The fit is inconsistent and the phone case does not feel durable.,Negative
+AMZ0262,Power Bank,5,Excellent product. I've been using this power bank for a week and the performance is smooth.,Positive
+AMZ0263,Power Bank,2,Battery life / performance is poor on this power bank. I would not recommend it.,Negative
+AMZ0264,Vacuum Cleaner,4,Absolutely loved this vacuum cleaner. The suction is excellent and it feels premium for the price.,Positive
+AMZ0265,Keyboard,3,"The keyboard is okay for basic use. The key response works, but nothing exceptional.",Negative
+AMZ0266,Power Bank,3,Decent power bank overall. Delivery was fine and setup took only a few minutes.,Positive
+AMZ0267,Tripod,5,Works like a charm. The tripod is reliable and the setup was super easy.,Positive
+AMZ0268,Desk Lamp,3,"The desk lamp is okay for basic use. The brightness works, but nothing exceptional.",Negative
+AMZ0269,Vacuum Cleaner,3,"Average experience with this vacuum cleaner. It does the job, but there is room for improvement.",Negative
+AMZ0270,Coffee Mug,5,"I was skeptical at first, but this coffee mug turned out to be fantastic. Great finish.",Positive
+AMZ0271,Coffee Mug,5,One of the best purchases I've made recently. The coffee mug performs exactly as described.,Positive
+AMZ0272,Phone Charger,4,I bought this phone charger for daily use and I'm impressed with the charging speed. Highly recommend.,Positive
+AMZ0273,Tripod,4,I bought this tripod for daily use and I'm impressed with the stability. Highly recommend.,Positive
+AMZ0274,Phone Charger,2,Not worth the price. The phone charger arrived late and the packaging was damaged.,Negative
+AMZ0275,Backpack,5,Works like a charm. The backpack is reliable and the setup was super easy.,Positive
+AMZ0276,Backpack,2,Not worth the price. The backpack arrived late and the packaging was damaged.,Negative
+AMZ0277,Desk Lamp,1,Honestly expected better. The desk lamp is average at best and overpriced.,Negative
+AMZ0278,Phone Case,3,Decent phone case overall. Delivery was fine and setup took only a few minutes.,Negative
+AMZ0279,Usb Hub,4,"This USB hub exceeded my expectations. Great quality, easy to use, and worth every rupee.",Positive
+AMZ0280,Wireless Earbuds,5,One of the best purchases I've made recently. The wireless earbuds performs exactly as described.,Positive
+AMZ0281,Gaming Mouse,4,Really good value for money. The gaming mouse looks sturdy and the tracking is surprisingly good.,Positive
+AMZ0282,Desk Lamp,1,The item stopped working within a week. Customer support was also not helpful.,Negative
+AMZ0283,Water Bottle,4,One of the best purchases I've made recently. The water bottle performs exactly as described.,Positive
+AMZ0284,Tripod,4,Excellent product. I've been using this tripod for a week and the performance is smooth.,Positive
+AMZ0285,Monitor Stand,4,Absolutely loved this monitor stand. The adjustability is excellent and it feels premium for the price.,Positive
+AMZ0286,Fitness Band,1,I returned this fitness band because it did not match the description at all.,Negative
+AMZ0287,Fitness Band,1,Battery life / performance is poor on this fitness band. I would not recommend it.,Negative
+AMZ0288,Water Bottle,4,"This water bottle exceeded my expectations. Great quality, easy to use, and worth every rupee.",Positive
+AMZ0289,Desk Lamp,5,Excellent product. I've been using this desk lamp for a week and the performance is smooth.,Positive
+AMZ0290,Air Fryer,3,"Not bad, not amazing. The cooking performance is usable, but I expected a bit more.",Negative
+AMZ0291,Tripod,4,The packaging was neat and the tripod feels well-built. No complaints so far.,Positive
+AMZ0292,Laptop Stand,4,"Not bad, not amazing. The stability is usable, but I expected a bit more.",Negative
+AMZ0293,Backpack,5,I bought this backpack for daily use and I'm impressed with the storage space. Highly recommend.,Positive
+AMZ0294,Gaming Mouse,3,I returned this gaming mouse because it did not match the description at all.,Negative
+AMZ0295,Laptop Stand,5,One of the best purchases I've made recently. The laptop stand performs exactly as described.,Positive
+AMZ0296,Coffee Mug,3,The coffee mug is fine for the price. Build quality is acceptable and performance is average.,Positive
+AMZ0297,Water Bottle,3,The quality of this water bottle is not as expected. It feels cheap and poorly made.,Negative
+AMZ0298,Laptop Stand,2,The stability is inconsistent and the laptop stand does not feel durable.,Negative
+AMZ0299,Usb Hub,5,Works like a charm. The USB hub is reliable and the setup was super easy.,Positive
+AMZ0300,Laptop Stand,4,The packaging was neat and the laptop stand feels well-built. No complaints so far.,Positive
+AMZ0301,Keyboard,1,The key response is inconsistent and the keyboard does not feel durable.,Negative
+AMZ0302,Monitor Stand,5,"I was skeptical at first, but this monitor stand turned out to be fantastic. Great adjustability.",Positive
+AMZ0303,Laptop Stand,5,Works like a charm. The laptop stand is reliable and the setup was super easy.,Positive
+AMZ0304,Laptop Stand,2,Honestly expected better. The laptop stand is average at best and overpriced.,Negative
+AMZ0305,Vacuum Cleaner,1,Honestly expected better. The vacuum cleaner is average at best and overpriced.,Negative
+AMZ0306,Phone Case,5,Really good value for money. The phone case looks sturdy and the fit is surprisingly good.,Positive
+AMZ0307,Gaming Mouse,5,"This gaming mouse exceeded my expectations. Great quality, easy to use, and worth every rupee.",Positive
+AMZ0308,Air Fryer,4,Absolutely loved this air fryer. The cooking performance is excellent and it feels premium for the price.,Positive
+AMZ0309,Monitor Stand,5,The packaging was neat and the monitor stand feels well-built. No complaints so far.,Positive
+AMZ0310,Gaming Mouse,5,Really good value for money. The gaming mouse looks sturdy and the tracking is surprisingly good.,Positive
+AMZ0311,Water Bottle,3,Decent water bottle overall. Delivery was fine and setup took only a few minutes.,Negative
+AMZ0312,Phone Charger,3,This phone charger looks nice in pictures but performs badly in real life.,Negative
+AMZ0313,Vacuum Cleaner,5,"I was skeptical at first, but this vacuum cleaner turned out to be fantastic. Great suction.",Positive
+AMZ0314,Phone Case,4,Works like a charm. The phone case is reliable and the setup was super easy.,Positive
+AMZ0315,Coffee Mug,5,Really good value for money. The coffee mug looks sturdy and the finish is surprisingly good.,Positive
+AMZ0316,Monitor Stand,2,Very disappointed with this monitor stand. The adjustability stopped working after a few days.,Negative
+AMZ0317,Air Fryer,3,"The air fryer is okay for basic use. The cooking performance works, but nothing exceptional.",Negative
+AMZ0318,Backpack,5,I bought this backpack for daily use and I'm impressed with the storage space. Highly recommend.,Positive
+AMZ0319,Phone Case,4,Very happy with this phone case. It arrived on time and the fit works perfectly.,Positive
+AMZ0320,Fitness Band,2,"I had high hopes, but this fitness band was a letdown. The step tracking is below average.",Negative
+AMZ0321,Air Fryer,5,I bought this air fryer for daily use and I'm impressed with the cooking performance. Highly recommend.,Positive
+AMZ0322,Water Bottle,5,Absolutely loved this water bottle. The build quality is excellent and it feels premium for the price.,Positive
+AMZ0323,Wireless Earbuds,5,Very happy with this wireless earbuds. It arrived on time and the sound quality works perfectly.,Positive
+AMZ0324,Vacuum Cleaner,5,The packaging was neat and the vacuum cleaner feels well-built. No complaints so far.,Positive
+AMZ0325,Laptop Stand,5,One of the best purchases I've made recently. The laptop stand performs exactly as described.,Positive
+AMZ0326,Tripod,1,The stability is inconsistent and the tripod does not feel durable.,Negative
+AMZ0327,Vacuum Cleaner,3,Not worth the price. The vacuum cleaner arrived late and the packaging was damaged.,Negative
+AMZ0328,Air Fryer,5,The packaging was neat and the air fryer feels well-built. No complaints so far.,Positive
+AMZ0329,Gaming Mouse,4,"This gaming mouse exceeded my expectations. Great quality, easy to use, and worth every rupee.",Positive
+AMZ0330,Monitor Stand,2,The item stopped working within a week. Customer support was also not helpful.,Negative
+AMZ0331,Coffee Mug,5,"This coffee mug exceeded my expectations. Great quality, easy to use, and worth every rupee.",Positive
+AMZ0332,Laptop Stand,5,I bought this laptop stand for daily use and I'm impressed with the stability. Highly recommend.,Positive
+AMZ0333,Desk Lamp,2,The quality of this desk lamp is not as expected. It feels cheap and poorly made.,Negative
+AMZ0334,Fitness Band,5,Excellent product. I've been using this fitness band for a week and the performance is smooth.,Positive
+AMZ0335,Gaming Mouse,3,"Average experience with this gaming mouse. It does the job, but there is room for improvement.",Negative
+AMZ0336,Tripod,5,"I was skeptical at first, but this tripod turned out to be fantastic. Great stability.",Positive
+AMZ0337,Phone Case,1,The fit is inconsistent and the phone case does not feel durable.,Negative
+AMZ0338,Keyboard,4,Absolutely loved this keyboard. The key response is excellent and it feels premium for the price.,Positive
+AMZ0339,Coffee Mug,1,The quality of this coffee mug is not as expected. It feels cheap and poorly made.,Negative
+AMZ0340,Monitor Stand,4,Excellent product. I've been using this monitor stand for a week and the performance is smooth.,Positive
+AMZ0341,Tripod,4,"Not bad, not amazing. The stability is usable, but I expected a bit more.",Negative
+AMZ0342,Backpack,5,"I was skeptical at first, but this backpack turned out to be fantastic. Great storage space.",Positive
+AMZ0343,Phone Charger,4,One of the best purchases I've made recently. The phone charger performs exactly as described.,Positive
+AMZ0344,Monitor Stand,2,Very disappointed with this monitor stand. The adjustability stopped working after a few days.,Negative
+AMZ0345,Tripod,4,"Not bad, not amazing. The stability is usable, but I expected a bit more.",Negative
+AMZ0346,Bluetooth Speaker,5,Really good value for money. The Bluetooth speaker looks sturdy and the bass is surprisingly good.,Positive
+AMZ0347,Vacuum Cleaner,1,Honestly expected better. The vacuum cleaner is average at best and overpriced.,Negative
+AMZ0348,Gaming Mouse,5,Very happy with this gaming mouse. It arrived on time and the tracking works perfectly.,Positive
+AMZ0349,Keyboard,5,Excellent product. I've been using this keyboard for a week and the performance is smooth.,Positive
+AMZ0350,Gaming Mouse,5,"This gaming mouse exceeded my expectations. Great quality, easy to use, and worth every rupee.",Positive
+AMZ0351,Keyboard,3,The keyboard is fine for the price. Build quality is acceptable and performance is average.,Positive
+AMZ0352,Water Bottle,5,The packaging was neat and the water bottle feels well-built. No complaints so far.,Positive
+AMZ0353,Desk Lamp,1,The item stopped working within a week. Customer support was also not helpful.,Negative
+AMZ0354,Vacuum Cleaner,5,Absolutely loved this vacuum cleaner. The suction is excellent and it feels premium for the price.,Positive
+AMZ0355,Keyboard,5,I bought this keyboard for daily use and I'm impressed with the key response. Highly recommend.,Positive
+AMZ0356,Fitness Band,5,"This fitness band exceeded my expectations. Great quality, easy to use, and worth every rupee.",Positive
+AMZ0357,Water Bottle,4,Very happy with this water bottle. It arrived on time and the build quality works perfectly.,Positive
+AMZ0358,Gaming Mouse,3,"Not bad, not amazing. The tracking is usable, but I expected a bit more.",Negative
+AMZ0359,Air Fryer,5,"This air fryer exceeded my expectations. Great quality, easy to use, and worth every rupee.",Positive
+AMZ0360,Tripod,5,One of the best purchases I've made recently. The tripod performs exactly as described.,Positive
+AMZ0361,Tripod,2,Battery life / performance is poor on this tripod. I would not recommend it.,Negative
+AMZ0362,Usb Hub,5,"I was skeptical at first, but this USB hub turned out to be fantastic. Great port connectivity.",Positive
+AMZ0363,Coffee Mug,3,Honestly expected better. The coffee mug is average at best and overpriced.,Negative
+AMZ0364,Tripod,3,I returned this tripod because it did not match the description at all.,Negative
+AMZ0365,Bluetooth Speaker,2,Honestly expected better. The Bluetooth speaker is average at best and overpriced.,Negative
+AMZ0366,Phone Case,5,"I was skeptical at first, but this phone case turned out to be fantastic. Great fit.",Positive
+AMZ0367,Usb Hub,3,"Not bad, not amazing. The port connectivity is usable, but I expected a bit more.",Negative
+AMZ0368,Keyboard,5,"This keyboard exceeded my expectations. Great quality, easy to use, and worth every rupee.",Positive
+AMZ0369,Tripod,3,Decent tripod overall. Delivery was fine and setup took only a few minutes.,Negative
+AMZ0370,Water Bottle,3,Decent water bottle overall. Delivery was fine and setup took only a few minutes.,Negative
+AMZ0371,Coffee Mug,3,The coffee mug is fine for the price. Build quality is acceptable and performance is average.,Positive
+AMZ0372,Air Fryer,5,I bought this air fryer for daily use and I'm impressed with the cooking performance. Highly recommend.,Positive
+AMZ0373,Water Bottle,5,Absolutely loved this water bottle. The build quality is excellent and it feels premium for the price.,Positive
+AMZ0374,Laptop Stand,2,The stability is inconsistent and the laptop stand does not feel durable.,Negative
+AMZ0375,Desk Lamp,5,"I was skeptical at first, but this desk lamp turned out to be fantastic. Great brightness.",Positive
+AMZ0376,Fitness Band,4,Absolutely loved this fitness band. The step tracking is excellent and it feels premium for the price.,Positive
+AMZ0377,Wireless Earbuds,5,"This wireless earbuds exceeded my expectations. Great quality, easy to use, and worth every rupee.",Positive
+AMZ0378,Laptop Stand,2,Not worth the price. The laptop stand arrived late and the packaging was damaged.,Negative
+AMZ0379,Laptop Stand,5,The packaging was neat and the laptop stand feels well-built. No complaints so far.,Positive
+AMZ0380,Water Bottle,4,"I was skeptical at first, but this water bottle turned out to be fantastic. Great build quality.",Positive
+AMZ0381,Monitor Stand,5,"This monitor stand exceeded my expectations. Great quality, easy to use, and worth every rupee.",Positive
+AMZ0382,Vacuum Cleaner,5,One of the best purchases I've made recently. The vacuum cleaner performs exactly as described.,Positive
+AMZ0383,Vacuum Cleaner,5,Very happy with this vacuum cleaner. It arrived on time and the suction works perfectly.,Positive
+AMZ0384,Water Bottle,4,"Not bad, not amazing. The build quality is usable, but I expected a bit more.",Negative
+AMZ0385,Monitor Stand,5,The packaging was neat and the monitor stand feels well-built. No complaints so far.,Positive
+AMZ0386,Phone Charger,2,The charging speed is inconsistent and the phone charger does not feel durable.,Negative
+AMZ0387,Wireless Earbuds,5,Very happy with this wireless earbuds. It arrived on time and the sound quality works perfectly.,Positive
+AMZ0388,Power Bank,2,The quality of this power bank is not as expected. It feels cheap and poorly made.,Negative
+AMZ0389,Desk Lamp,5,Works like a charm. The desk lamp is reliable and the setup was super easy.,Positive
+AMZ0390,Bluetooth Speaker,3,Battery life / performance is poor on this Bluetooth speaker. I would not recommend it.,Negative
+AMZ0391,Bluetooth Speaker,3,The quality of this Bluetooth speaker is not as expected. It feels cheap and poorly made.,Negative
+AMZ0392,Phone Charger,5,Absolutely loved this phone charger. The charging speed is excellent and it feels premium for the price.,Positive
+AMZ0393,Phone Charger,5,Really good value for money. The phone charger looks sturdy and the charging speed is surprisingly good.,Positive
+AMZ0394,Usb Hub,5,Absolutely loved this USB hub. The port connectivity is excellent and it feels premium for the price.,Positive
+AMZ0395,Keyboard,5,Absolutely loved this keyboard. The key response is excellent and it feels premium for the price.,Positive
+AMZ0396,Phone Case,5,One of the best purchases I've made recently. The phone case performs exactly as described.,Positive
+AMZ0397,Air Fryer,2,I returned this air fryer because it did not match the description at all.,Negative
+AMZ0398,Bluetooth Speaker,5,"I was skeptical at first, but this Bluetooth speaker turned out to be fantastic. Great bass.",Positive
+AMZ0399,Monitor Stand,5,Very happy with this monitor stand. It arrived on time and the adjustability works perfectly.,Positive
+AMZ0400,Water Bottle,5,"This water bottle exceeded my expectations. Great quality, easy to use, and worth every rupee.",Positive
+AMZ0401,Gaming Mouse,5,One of the best purchases I've made recently. The gaming mouse performs exactly as described.,Positive
+AMZ0402,Keyboard,5,The packaging was neat and the keyboard feels well-built. No complaints so far.,Positive
+AMZ0403,Tripod,5,Absolutely loved this tripod. The stability is excellent and it feels premium for the price.,Positive
+AMZ0404,Vacuum Cleaner,4,Absolutely loved this vacuum cleaner. The suction is excellent and it feels premium for the price.,Positive
+AMZ0405,Air Fryer,4,"This air fryer exceeded my expectations. Great quality, easy to use, and worth every rupee.",Positive
+AMZ0406,Desk Lamp,1,Battery life / performance is poor on this desk lamp. I would not recommend it.,Negative
+AMZ0407,Desk Lamp,5,One of the best purchases I've made recently. The desk lamp performs exactly as described.,Positive
+AMZ0408,Air Fryer,4,"The air fryer is okay for basic use. The cooking performance works, but nothing exceptional.",Negative
+AMZ0409,Desk Lamp,2,The brightness is inconsistent and the desk lamp does not feel durable.,Negative
+AMZ0410,Tripod,2,Honestly expected better. The tripod is average at best and overpriced.,Negative
+AMZ0411,Monitor Stand,5,One of the best purchases I've made recently. The monitor stand performs exactly as described.,Positive
+AMZ0412,Power Bank,4,"The power bank is okay for basic use. The battery backup works, but nothing exceptional.",Negative
+AMZ0413,Bluetooth Speaker,4,The packaging was neat and the Bluetooth speaker feels well-built. No complaints so far.,Positive
+AMZ0414,Phone Case,2,Battery life / performance is poor on this phone case. I would not recommend it.,Negative
+AMZ0415,Keyboard,2,Battery life / performance is poor on this keyboard. I would not recommend it.,Negative
+AMZ0416,Laptop Stand,5,Very happy with this laptop stand. It arrived on time and the stability works perfectly.,Positive
+AMZ0417,Bluetooth Speaker,3,The Bluetooth speaker is fine for the price. Build quality is acceptable and performance is average.,Positive
+AMZ0418,Gaming Mouse,2,The quality of this gaming mouse is not as expected. It feels cheap and poorly made.,Negative
+AMZ0419,Keyboard,3,Decent keyboard overall. Delivery was fine and setup took only a few minutes.,Negative
+AMZ0420,Monitor Stand,5,I bought this monitor stand for daily use and I'm impressed with the adjustability. Highly recommend.,Positive
+AMZ0421,Power Bank,2,Very disappointed with this power bank. The battery backup stopped working after a few days.,Negative
+AMZ0422,Usb Hub,5,"I was skeptical at first, but this USB hub turned out to be fantastic. Great port connectivity.",Positive
+AMZ0423,Water Bottle,5,The packaging was neat and the water bottle feels well-built. No complaints so far.,Positive
+AMZ0424,Monitor Stand,4,The packaging was neat and the monitor stand feels well-built. No complaints so far.,Positive
+AMZ0425,Desk Lamp,3,"The desk lamp is okay for basic use. The brightness works, but nothing exceptional.",Negative
+AMZ0426,Tripod,2,The stability is inconsistent and the tripod does not feel durable.,Negative
+AMZ0427,Usb Hub,2,"I had high hopes, but this USB hub was a letdown. The port connectivity is below average.",Negative
+AMZ0428,Vacuum Cleaner,4,Absolutely loved this vacuum cleaner. The suction is excellent and it feels premium for the price.,Positive
+AMZ0429,Monitor Stand,5,"This monitor stand exceeded my expectations. Great quality, easy to use, and worth every rupee.",Positive
+AMZ0430,Gaming Mouse,3,Decent gaming mouse overall. Delivery was fine and setup took only a few minutes.,Positive
+AMZ0431,Monitor Stand,3,"The monitor stand is okay for basic use. The adjustability works, but nothing exceptional.",Negative
+AMZ0432,Backpack,2,The item stopped working within a week. Customer support was also not helpful.,Negative
+AMZ0433,Desk Lamp,1,Honestly expected better. The desk lamp is average at best and overpriced.,Negative
+AMZ0434,Monitor Stand,2,Honestly expected better. The monitor stand is average at best and overpriced.,Negative
+AMZ0435,Bluetooth Speaker,2,Honestly expected better. The Bluetooth speaker is average at best and overpriced.,Negative
+AMZ0436,Phone Charger,1,Very disappointed with this phone charger. The charging speed stopped working after a few days.,Negative
+AMZ0437,Phone Charger,3,"Not bad, not amazing. The charging speed is usable, but I expected a bit more.",Negative
+AMZ0438,Backpack,1,I returned this backpack because it did not match the description at all.,Negative
+AMZ0439,Fitness Band,3,"Not bad, not amazing. The step tracking is usable, but I expected a bit more.",Negative
+AMZ0440,Keyboard,5,The packaging was neat and the keyboard feels well-built. No complaints so far.,Positive
+AMZ0441,Tripod,5,Absolutely loved this tripod. The stability is excellent and it feels premium for the price.,Positive
+AMZ0442,Tripod,5,"I was skeptical at first, but this tripod turned out to be fantastic. Great stability.",Positive
+AMZ0443,Gaming Mouse,2,The tracking is inconsistent and the gaming mouse does not feel durable.,Negative
+AMZ0444,Coffee Mug,3,Decent coffee mug overall. Delivery was fine and setup took only a few minutes.,Negative
+AMZ0445,Monitor Stand,5,One of the best purchases I've made recently. The monitor stand performs exactly as described.,Positive
+AMZ0446,Tripod,5,"I was skeptical at first, but this tripod turned out to be fantastic. Great stability.",Positive
+AMZ0447,Desk Lamp,5,Really good value for money. The desk lamp looks sturdy and the brightness is surprisingly good.,Positive
+AMZ0448,Vacuum Cleaner,5,"This vacuum cleaner exceeded my expectations. Great quality, easy to use, and worth every rupee.",Positive
+AMZ0449,Gaming Mouse,5,"This gaming mouse exceeded my expectations. Great quality, easy to use, and worth every rupee.",Positive
+AMZ0450,Monitor Stand,5,Really good value for money. The monitor stand looks sturdy and the adjustability is surprisingly good.,Positive
+AMZ0451,Wireless Earbuds,5,The packaging was neat and the wireless earbuds feels well-built. No complaints so far.,Positive
+AMZ0452,Power Bank,4,One of the best purchases I've made recently. The power bank performs exactly as described.,Positive
+AMZ0453,Phone Charger,5,Excellent product. I've been using this phone charger for a week and the performance is smooth.,Positive
+AMZ0454,Keyboard,5,Very happy with this keyboard. It arrived on time and the key response works perfectly.,Positive
+AMZ0455,Desk Lamp,3,"Average experience with this desk lamp. It does the job, but there is room for improvement.",Negative
+AMZ0456,Coffee Mug,5,Absolutely loved this coffee mug. The finish is excellent and it feels premium for the price.,Positive
+AMZ0457,Coffee Mug,5,Very happy with this coffee mug. It arrived on time and the finish works perfectly.,Positive
+AMZ0458,Monitor Stand,5,Works like a charm. The monitor stand is reliable and the setup was super easy.,Positive
+AMZ0459,Laptop Stand,5,Very happy with this laptop stand. It arrived on time and the stability works perfectly.,Positive
+AMZ0460,Coffee Mug,2,The finish is inconsistent and the coffee mug does not feel durable.,Negative
+AMZ0461,Desk Lamp,5,Works like a charm. The desk lamp is reliable and the setup was super easy.,Positive
+AMZ0462,Monitor Stand,5,Absolutely loved this monitor stand. The adjustability is excellent and it feels premium for the price.,Positive
+AMZ0463,Gaming Mouse,3,The item stopped working within a week. Customer support was also not helpful.,Negative
+AMZ0464,Desk Lamp,2,The item stopped working within a week. Customer support was also not helpful.,Negative
+AMZ0465,Gaming Mouse,3,"Average experience with this gaming mouse. It does the job, but there is room for improvement.",Negative
+AMZ0466,Air Fryer,4,"Average experience with this air fryer. It does the job, but there is room for improvement.",Negative
+AMZ0467,Gaming Mouse,5,Works like a charm. The gaming mouse is reliable and the setup was super easy.,Positive
+AMZ0468,Keyboard,5,Absolutely loved this keyboard. The key response is excellent and it feels premium for the price.,Positive
+AMZ0469,Gaming Mouse,2,I returned this gaming mouse because it did not match the description at all.,Negative
+AMZ0470,Wireless Earbuds,2,This wireless earbuds looks nice in pictures but performs badly in real life.,Negative
+AMZ0471,Phone Charger,3,"I had high hopes, but this phone charger was a letdown. The charging speed is below average.",Negative
+AMZ0472,Desk Lamp,1,Not worth the price. The desk lamp arrived late and the packaging was damaged.,Negative
+AMZ0473,Laptop Stand,5,"I was skeptical at first, but this laptop stand turned out to be fantastic. Great stability.",Positive
+AMZ0474,Vacuum Cleaner,5,I bought this vacuum cleaner for daily use and I'm impressed with the suction. Highly recommend.,Positive
+AMZ0475,Monitor Stand,1,Battery life / performance is poor on this monitor stand. I would not recommend it.,Negative
+AMZ0476,Desk Lamp,5,Works like a charm. The desk lamp is reliable and the setup was super easy.,Positive
+AMZ0477,Fitness Band,5,One of the best purchases I've made recently. The fitness band performs exactly as described.,Positive
+AMZ0478,Tripod,4,"Average experience with this tripod. It does the job, but there is room for improvement.",Negative
+AMZ0479,Coffee Mug,3,This coffee mug looks nice in pictures but performs badly in real life.,Negative
+AMZ0480,Backpack,4,"Average experience with this backpack. It does the job, but there is room for improvement.",Negative
+AMZ0481,Keyboard,5,Really good value for money. The keyboard looks sturdy and the key response is surprisingly good.,Positive
+AMZ0482,Backpack,2,Battery life / performance is poor on this backpack. I would not recommend it.,Negative
+AMZ0483,Fitness Band,5,Really good value for money. The fitness band looks sturdy and the step tracking is surprisingly good.,Positive
+AMZ0484,Laptop Stand,5,Works like a charm. The laptop stand is reliable and the setup was super easy.,Positive
+AMZ0485,Air Fryer,2,"I had high hopes, but this air fryer was a letdown. The cooking performance is below average.",Negative
+AMZ0486,Phone Charger,5,Very happy with this phone charger. It arrived on time and the charging speed works perfectly.,Positive
+AMZ0487,Tripod,2,Battery life / performance is poor on this tripod. I would not recommend it.,Negative
+AMZ0488,Backpack,2,This backpack looks nice in pictures but performs badly in real life.,Negative
+AMZ0489,Desk Lamp,5,Excellent product. I've been using this desk lamp for a week and the performance is smooth.,Positive
+AMZ0490,Power Bank,5,Works like a charm. The power bank is reliable and the setup was super easy.,Positive
+AMZ0491,Power Bank,5,The packaging was neat and the power bank feels well-built. No complaints so far.,Positive
+AMZ0492,Fitness Band,4,"This fitness band exceeded my expectations. Great quality, easy to use, and worth every rupee.",Positive
+AMZ0493,Usb Hub,3,Decent USB hub overall. Delivery was fine and setup took only a few minutes.,Negative
+AMZ0494,Fitness Band,5,I bought this fitness band for daily use and I'm impressed with the step tracking. Highly recommend.,Positive
+AMZ0495,Gaming Mouse,4,Absolutely loved this gaming mouse. The tracking is excellent and it feels premium for the price.,Positive
+AMZ0496,Power Bank,5,Absolutely loved this power bank. The battery backup is excellent and it feels premium for the price.,Positive
+AMZ0497,Vacuum Cleaner,3,Decent vacuum cleaner overall. Delivery was fine and setup took only a few minutes.,Negative
+AMZ0498,Air Fryer,2,"I had high hopes, but this air fryer was a letdown. The cooking performance is below average.",Negative
+AMZ0499,Phone Charger,4,Excellent product. I've been using this phone charger for a week and the performance is smooth.,Positive
+AMZ0500,Gaming Mouse,5,Works like a charm. The gaming mouse is reliable and the setup was super easy.,Positive
