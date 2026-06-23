@@ -86,7 +86,7 @@ The goal of this project is to:
 project_folder/
 │
 ├── amazon_reviews_sample_500.csv
-├── sentiment_analysis.py
+├── huggingface_transformer_sentiment_analysis.py
 ├── output_reviews_with_sentiment.csv
 └── README.md
 ```
@@ -184,7 +184,7 @@ Refer `huggingface_transformer_sentiment_analysis.py`
 Inside your terminal, run:
 
 ```bash
-python shuggingface_transformer_sentiment_analysis.py
+python huggingface_transformer_sentiment_analysis.py
 ```
 
 If everything works correctly, you will get a new file:
