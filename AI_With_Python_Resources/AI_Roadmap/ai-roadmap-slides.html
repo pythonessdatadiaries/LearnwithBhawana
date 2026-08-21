@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>AI Engineer Roadmap — Slides</title>
+<link href="https://fonts.googleapis.com/css2?family=Kalam:wght@400;700&family=Patrick+Hand&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bezel:#2b2b2e;
+    --bezel-edge:#3d3d41;
+    --paper:#f7f3ea;
+    --paper-line:#d9d2bf;
+    --ink:#22201c;
+    --accent:#e0562f;
+    --accent2:#2e6f5e;
+    --pencil:#8a8577;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    min-height:100vh;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    background:#111113;
+    font-family:'Patrick Hand', sans-serif;
+    padding:24px;
+    gap:18px;
+  }
+  .laptop{
+    width:min(92vw, 760px);
+  }
+  .screen-frame{
+    background:var(--bezel);
+    border-radius:18px 18px 6px 6px;
+    padding:16px 16px 10px;
+    box-shadow:0 30px 60px rgba(0,0,0,.5);
+    position:relative;
+  }
+  .cam{
+    width:6px;height:6px;border-radius:50%;
+    background:#555; margin:0 auto 10px;
+  }
+  .screen{
+    aspect-ratio:16/10;
+    background:
+      repeating-linear-gradient(
+        to bottom,
+        transparent 0px, transparent 38px,
+        var(--paper-line) 39px
+      ),
+      var(--paper);
+    border-radius:4px;
+    overflow:hidden;
+    position:relative;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    padding:36px 40px;
+  }
+  .screen::before{
+    content:"";
+    position:absolute;
+    left:56px; top:0; bottom:0;
+    width:2px;
+    background:rgba(224,86,47,.25);
+  }
+  .base{
+    height:16px;
+    background:linear-gradient(var(--bezel-edge), #1c1c1e);
+    border-radius:0 0 14px 14px;
+    position:relative;
+  }
+  .base::after{
+    content:"";
+    position:absolute;
+    left:50%; top:0;
+    transform:translateX(-50%);
+    width:90px; height:6px;
+    background:#0e0e0f;
+    border-radius:0 0 8px 8px;
+  }
+  .slide-num{
+    position:absolute;
+    top:16px; right:20px;
+    font-family:'Kalam',cursive;
+    font-size:15px;
+    color:var(--pencil);
+    border:1.5px solid var(--pencil);
+    border-radius:50%;
+    width:34px;height:34px;
+    display:flex;align-items:center;justify-content:center;
+    transform:rotate(6deg);
+  }
+  .content{
+    width:100%;
+    color:var(--ink);
+  }
+  .hook{
+    text-align:center;
+  }
+  .hook .big{
+    font-family:'Kalam',cursive;
+    font-weight:700;
+    font-size:clamp(22px,4.2vw,34px);
+    line-height:1.25;
+  }
+  .hook .arrow{
+    font-size:30px;
+    margin-top:8px;
+    color:var(--accent);
+  }
+  .hook .stamp{
+    display:inline-block;
+    margin-top:14px;
+    font-family:'Kalam',cursive;
+    font-size:14px;
+    color:var(--accent2);
+    border:2px solid var(--accent2);
+    padding:4px 10px;
+    border-radius:6px;
+    transform:rotate(-4deg);
+  }
+  .timeline-tag{
+    font-family:'Kalam',cursive;
+    font-weight:700;
+    font-size:13px;
+    color:#fff;
+    background:var(--accent);
+    display:inline-block;
+    padding:4px 12px;
+    border-radius:14px;
+    transform:rotate(-2deg);
+    margin-bottom:14px;
+  }
+  .topic{
+    font-family:'Kalam',cursive;
+    font-weight:700;
+    font-size:clamp(20px,3.8vw,30px);
+    margin:0 0 10px;
+    display:flex;
+    align-items:center;
+    gap:10px;
+  }
+  .topic .check{
+    color:var(--accent2);
+    font-size:22px;
+  }
+  .line{
+    font-size:clamp(15px,2.6vw,19px);
+    line-height:1.5;
+    color:#3a362f;
+    border-left:3px solid var(--paper-line);
+    padding-left:12px;
+    margin-left:2px;
+  }
+  .cta .big{
+    font-family:'Kalam',cursive;
+    font-weight:700;
+    font-size:clamp(20px,3.6vw,28px);
+    text-align:center;
+    line-height:1.4;
+  }
+  .cta .pin{
+    text-align:center;
+    margin-top:10px;
+    font-size:26px;
+  }
+  .doodle{
+    position:absolute;
+    bottom:14px; left:20px;
+    font-size:13px;
+    color:var(--pencil);
+    font-family:'Kalam',cursive;
+    transform:rotate(-2deg);
+  }
+  .controls{
+    display:flex;
+    gap:16px;
+    align-items:center;
+    color:#eee;
+    font-family:'Patrick Hand', sans-serif;
+  }
+  button{
+    background:#232326;
+    color:#eee;
+    border:1px solid #3a3a3d;
+    border-radius:8px;
+    padding:8px 16px;
+    font-size:15px;
+    cursor:pointer;
+    font-family:'Patrick Hand', sans-serif;
+  }
+  button:hover{ background:#2e2e31; }
+  .counter{ font-size:14px; color:#999; min-width:60px; text-align:center;}
+  .hint{
+    color:#666; font-size:12px; text-align:center; max-width:500px;
+  }
+</style>
+</head>
+<body>
+
+<div class="laptop">
+  <div class="screen-frame">
+    <div class="cam"></div>
+    <div class="screen" id="screen">
+      <!-- content injected here -->
+    </div>
+  </div>
+  <div class="base"></div>
+</div>
+
+<div class="controls">
+  <button onclick="go(-1)">← Prev</button>
+  <div class="counter" id="counter">1 / 12</div>
+  <button onclick="go(1)">Next →</button>
+</div>
+<div class="hint">Screenshot the laptop screen for each slide (or use your device's screenshot tool). Use Prev/Next or ← → arrow keys.</div>
+
+<script>
+const slides = [
+  {
+    type:'hook',
+    html:`
+      <div class="content hook">
+        <div class="big">This roadmap can get you a<br>6–10 LPA AI role<br>in the next 3–4 months 👇</div>
+        <div class="arrow">↓</div>
+        <div class="stamp">save this post</div>
+      </div>
+      <div class="doodle">0 → AI Engineer</div>
+    `
+  },
+  {
+    type:'topic', tag:'Month 1 · Week 0', title:'Setup 🛠️',
+    line:'Install Python + VS Code. Search "Python for beginners" on YouTube (freeCodeCamp, CodeWithHarry). Bookmark roadmap.sh/python.'
+  },
+  {
+    type:'topic', tag:'Month 1 · Week 1-2', title:'Python 🐍',
+    line:'Variables, loops, functions, OOP basics — your foundation.'
+  },
+  {
+    type:'topic', tag:'Month 1 · Week 3-4', title:'Math',
+    line:'Linear Algebra + Probability + Stats — just enough to understand ML, not a PhD.'
+  },
+  {
+    type:'topic', tag:'Month 2 · Week 1', title:'Data Handling',
+    line:'NumPy + Pandas — clean and play with real datasets.'
+  },
+  {
+    type:'topic', tag:'Month 2 · Week 2-3', title:'Machine Learning',
+    line:'Regression, Classification, Trees — scikit-learn is your best friend.'
+  },
+  {
+    type:'topic', tag:'Month 2 · Week 4', title:'ML Projects',
+    line:'Build 2 small projects — house price predictor, spam classifier.'
+  },
+  {
+    type:'topic', tag:'Month 3 · Week 1', title:'Deep Learning',
+    line:'Neural Networks — Perceptron → CNN → RNN (just the intuition).'
+  },
+  {
+    type:'topic', tag:'Month 3 · Week 2', title:'Frameworks',
+    line:'PyTorch or TensorFlow — pick one, don\'t learn both.'
+  },
+  {
+    type:'topic', tag:'Month 3 · Week 3', title:'LLMs',
+    line:'Understand Transformers, Prompt Engineering, Fine-tuning basics.'
+  },
+  {
+    type:'topic', tag:'Month 3 · Week 4', title:'Build with LLMs',
+    line:'Use OpenAI/Claude APIs — build a chatbot or RAG app.'
+  },
+  {
+    type:'topic', tag:'Month 4', title:'Deployment',
+    line:'Docker + Streamlit/FastAPI + deploy on Render/HuggingFace.'
+  },
+  {
+    type:'cta',
+    html:`
+      <div class="content cta">
+        <div class="big">Save this roadmap 📌<br>Follow for the detailed<br>breakdown of each step</div>
+        <div class="pin">📌</div>
+      </div>
+      <div class="doodle">you got this ✏️</div>
+    `
+  }
+];
+
+let i = 0;
+const screen = document.getElementById('screen');
+const counter = document.getElementById('counter');
+
+function render(){
+  const s = slides[i];
+  let html = '';
+  if(s.type === 'hook' || s.type === 'cta'){
+    html = `<div class="slide-num">${i+1}</div>` + s.html;
+  } else {
+    html = `
+      <div class="slide-num">${i+1}</div>
+      <div class="content">
+        <div class="timeline-tag">${s.tag}</div>
+        <div class="topic"><span class="check">✔</span>${s.title}</div>
+        <div class="line">${s.line}</div>
+      </div>
+      <div class="doodle">step ${i} of 12</div>
+    `;
+  }
+  screen.innerHTML = html;
+  counter.textContent = `${i+1} / ${slides.length}`;
+}
+
+function go(dir){
+  i = (i + dir + slides.length) % slides.length;
+  render();
+}
+
+document.addEventListener('keydown', (e)=>{
+  if(e.key === 'ArrowRight') go(1);
+  if(e.key === 'ArrowLeft') go(-1);
+});
+
+render();
+</script>
+
+</body>
+</html>
