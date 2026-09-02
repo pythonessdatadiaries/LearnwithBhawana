@@ -1,7 +1,6 @@
 ## AI Terms for Beginners — Part 3 Deep Dive
 
-### 6 must-know AI terms, explained simply with real-life examples, flowcharts 
-### and a beginner project for each.
+### 6 must-know AI terms, explained simply with real-life examples, flowcharts and a beginner project for each.
 
 ### Covered
 - Tokens
