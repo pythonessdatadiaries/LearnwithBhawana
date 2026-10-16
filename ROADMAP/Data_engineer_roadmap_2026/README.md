@@ -16,4 +16,4 @@ It includes free YouTube and learning resources, plus selected Udemy, Coursera, 
 This roadmap is a learning guide, not a promise of interviews or a job. Focus on practicing the skills and showing what you can build.
 
 
-**Roadmap document:** [data_engineering_roadmap_2026.docx](data_engineering_roadmap_2026.docx)
+**Roadmap document:** [data_engineering_roadmap_2026.docx]([data_engineering_roadmap_2026.docx](https://github.com/pythonessdatadiaries/LearnwithBhawana/blob/main/ROADMAP/Data_engineer_roadmap_2026/Data%20Engineer%20Roadmap%202026.pdf))
